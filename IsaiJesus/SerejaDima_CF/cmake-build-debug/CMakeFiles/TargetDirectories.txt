@@ -1,3 +1,0 @@
-C:/Users/isaij/Documents/Learning/Algorithms/ICPC 2025/IsaiJesus/SerejaDima_CF/cmake-build-debug/CMakeFiles/SerejaDima_CF.dir
-C:/Users/isaij/Documents/Learning/Algorithms/ICPC 2025/IsaiJesus/SerejaDima_CF/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/isaij/Documents/Learning/Algorithms/ICPC 2025/IsaiJesus/SerejaDima_CF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
